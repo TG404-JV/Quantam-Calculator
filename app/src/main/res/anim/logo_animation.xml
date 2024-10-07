@@ -1,0 +1,20 @@
+<!-- res/anim/logo_animation.xml -->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fade animation -->
+    <alpha
+        android:fromAlpha="0"
+        android:toAlpha="1"
+        android:duration="2000" />
+
+    <!-- Scale animation -->
+    <scale
+        android:fromXScale="0.5"
+        android:fromYScale="0.5"
+        android:toXScale="1"
+        android:toYScale="1"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:duration="2000" />
+
+    <!-- Add any other animations you want for the logo image -->
+</set>

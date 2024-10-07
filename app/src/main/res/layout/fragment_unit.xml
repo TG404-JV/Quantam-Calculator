@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Unit">
+
+
+
+    <RelativeLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".UnitConversion">
+
+
+        <include
+            android:id="@+id/unit_card"
+            layout="@layout/unit_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp" />
+
+        <RelativeLayout
+            android:id="@+id/field"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/num_button"
+            android:layout_marginBottom="30dp"
+            android:visibility="invisible">
+
+            <Spinner
+                android:id="@+id/select_unit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginBottom="15dp"
+                android:background="@drawable/spinner_background"
+                android:padding="8dp"
+                android:textSize="16sp"
+                android:spinnerMode="dropdown"
+                android:popupBackground="#FFFFFF"
+                android:dropDownVerticalOffset="40dp"
+                android:dropDownWidth="match_parent"
+                android:popupElevation="8dp" />
+
+            <TextView
+                android:id="@+id/inputUnit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Units_Input"
+                android:layout_alignParentEnd="true"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="15sp"/>
+
+            <Spinner
+                android:id="@+id/to_unit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_below="@id/select_unit"
+                android:background="@drawable/spinner_background"
+                android:padding="8dp"
+                android:textSize="16sp"
+                android:spinnerMode="dropdown"
+                android:popupBackground="#FFFFFF"
+                android:dropDownVerticalOffset="40dp"
+                android:dropDownWidth="match_parent"
+                android:popupElevation="8dp" />
+
+            <TextView
+                android:id="@+id/outputUnit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/double_zero"
+                android:layout_alignParentEnd="true"
+                android:layout_below="@id/inputUnit"
+                android:layout_marginEnd="10dp"
+                android:textStyle="bold"
+                android:textSize="18sp"/>
+
+        </RelativeLayout>
+
+        <include
+            android:id="@+id/num_button"
+            layout="@layout/buttons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/white"
+            android:visibility="invisible"/>
+
+    </RelativeLayout>
+
+
+</FrameLayout>

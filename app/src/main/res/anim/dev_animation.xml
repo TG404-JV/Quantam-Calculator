@@ -1,0 +1,8 @@
+<!-- res/anim/dev_animation.xml -->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <alpha
+        android:fromAlpha="0"
+        android:toAlpha="1"
+        android:duration="5000" />
+    <!-- Add any other animations you want for the developer text view -->
+</set>
