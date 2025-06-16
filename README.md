@@ -270,14 +270,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📊 Project Stats
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/TG404-JV/QuantumCalc?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/forks/TG404-JV/QuantumCalc?style=social" alt="Forks">
-  <img src="https://img.shields.io/github/watchers/TG404-JV/QuantumCalc?style=social" alt="Watchers">
+  <img src="https://img.shields.io/github/stars/TG404-JV/Quantam-Calculator?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/TG404-JV/Quantam-Calculator?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/watchers/TG404-JV/Quantam-Calculator?style=social" alt="Watchers">
 </div>
 
 ---
 
 <div align="center">
   <h3>⭐ Star this repo if you found it helpful!</h3>
-  <p>Made with ❤️ and ☕ by [Your Name]</p>
+  <p>Made with ❤️ and ☕ by <strong>Tejas Kale</strong></p>
 </div>
