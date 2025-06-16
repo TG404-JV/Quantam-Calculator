@@ -257,9 +257,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tejas-kale-65419a24b))
+- Email: cse.tejas@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -271,9 +270,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📊 Project Stats
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/QuantumCalc?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/forks/yourusername/QuantumCalc?style=social" alt="Forks">
-  <img src="https://img.shields.io/github/watchers/yourusername/QuantumCalc?style=social" alt="Watchers">
+  <img src="https://img.shields.io/github/stars/TG404-JV/QuantumCalc?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/TG404-JV/QuantumCalc?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/watchers/TG404-JV/QuantumCalc?style=social" alt="Watchers">
 </div>
 
 ---
