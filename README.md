@@ -18,9 +18,9 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="main_calculator.png" width="200" alt="Main Calculator"/>
-  <img src="currency_converter.png" width="200" alt="Currency Converter"/>
-  <img src="unit_converter.png" width="200" alt="Unit Converter"/>
+  <img src="HomeScrren.jpg" width="200" alt="Main Calculator"/>
+  <img src="Currency Conversion Screen.jpg" width="200" alt="Currency Converter"/>
+  <img src="Unnit Conversion Screen.jpg" width="200" alt="Unit Converter"/>
 </div>
 
 ## ✨ Features
